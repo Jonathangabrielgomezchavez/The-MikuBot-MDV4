@@ -41,7 +41,7 @@ global.Key360 = ["964f-0c75-7afc"]
 
 global.lenguajeGB = es //Idioma de GataBot, Ejemplo: es | en | pt...
 global.mid = esDefault
-global.version_language = '1.0 (MID-GB)'
+global.version_language = '4.0 (MID-GB)'
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.openai_key = 'sk-0'
