@@ -111,7 +111,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <a href="http://wa.me/595994825505" target="blank"><img src="https://img.shields.io/badge/COLAB.4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ## `▢ COLABORADOR DEL BOT` 
-<a href="https://github.com/DavidOficial"><img src="https://github.com/DavidOficial.png" width="100" height="100" alt="DavidOficial"/></a>
+<a href="https://github.com/GataNina-Li"><img src="https://github.com/GataNina-Li.png" width="100" height="100" alt="GataNina-Li"/></a>
 
 ## `▢ EDITOR & PROPIETARIO DEL BOT` 
 <a href="https://github.com/The-DiosBot-MD"><img src="https://github.com/The-DiosBot-MD.png" width="250" height="250" alt="The-DiosBot-MD"/></a>
