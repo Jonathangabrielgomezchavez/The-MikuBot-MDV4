@@ -6,7 +6,8 @@ import cheerio from "cheerio"
 import fetch from "node-fetch"
 import axios from "axios"
 import moment from "moment-timezone"
-import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js"
+import { es as esDefault, en as enDefault } from "./lib/multi-language/_default.js"
+import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a para el Bot | Add the numbers to be Owner for Bot ⋅.━━━━ ⊰  
 
@@ -39,7 +40,8 @@ global.Key360 = ["964f-0c75-7afc"]
 //  ar = عرب             hi = Hindi Language
 
 global.lenguajeGB = es //Idioma de GataBot, Ejemplo: es | en | pt...
-
+global.mid = esDefault
+global.version_language = '1.0 (MID-GB)'
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.openai_key = 'sk-0'
