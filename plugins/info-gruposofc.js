@@ -9,7 +9,7 @@ let str = `> *𝘽𝙄𝙀𝙉𝙑𝙀𝙉𝙄𝘿𝙊(𝘼) 𝘼 𝙇𝙊𝙎 �
 > ➥ ${vs}
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 > *✅ 𝙂𝙍𝙐𝙋𝙊 𝙊𝙁𝙄𝘾𝙄𝘼𝙇*
-> *https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI*
+> https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI
 > ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 > *Por favor, no ingresar con números de Bots, y mantener el respeto.*\n`
 await conn.sendFile(m.chat, media, 'gata.mp4', str, fkontak)}
