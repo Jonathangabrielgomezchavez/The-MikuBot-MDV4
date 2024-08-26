@@ -37,7 +37,7 @@
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FThe-DiosBot-MD%2FThe-MikuBot-MDV4) 
 
 ### `▢ ACTIVAR EN CORINPLUS HOST` 
-
+https://github.com/GataNina-Li/GataBot-MD#%EF%B8%8F-corinplus-hots
 
 ### `▢ ACTIVAR EN TERMUX` 
 - ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
